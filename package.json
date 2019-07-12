@@ -1,0 +1,23 @@
+{
+  "name": "env-hackathon",
+  "version": "1.0.0",
+  "description": "ml deep learning project",
+  "main": "index.js",
+  "dependencies": {
+    "@tensorflow/tfjs": "^1.2.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/coderrick/env-hackathon.git"
+  },
+  "author": "Derrick Wilson-Duncan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/coderrick/env-hackathon/issues"
+  },
+  "homepage": "https://github.com/coderrick/env-hackathon#readme"
+}
